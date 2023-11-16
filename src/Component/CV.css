@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.esas{
+    background-color: rgb(216, 234, 228);
+    padding: 30px;
+}
+.userCv{
+    width: 60%;
+    background-color: whitesmoke;
+    margin: 0px auto;
+    padding: 30px;
+    border: 1px solid black;
+    height: 90vh;
+}
+h2{
+    margin: 5px 0px;
+    width: 60%;
+    padding: 10px;
+    background-color: rgb(155, 155, 232);
+}
+
+h3 {
+
+}
+
+span {
+    font-style: italic;
+}
